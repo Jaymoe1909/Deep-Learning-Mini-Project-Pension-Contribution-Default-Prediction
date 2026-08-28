@@ -1,0 +1,15 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# Deep learning
+torch>=2.0
+pytorch-tabnet>=4.1
+
+# Augmentation
+imbalanced-learn
+
+# Explainability
+shap
